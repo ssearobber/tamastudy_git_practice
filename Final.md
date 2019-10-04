@@ -8,7 +8,7 @@
 
 - [ ] 홍현지 Hyeonji Hong
 
-- [ ] 이재웅 JaeWoong Lee
+- [x] 이재웅 JaeWoong Lee
 
 - [ ] 이주연 Juyeon Lee
 
